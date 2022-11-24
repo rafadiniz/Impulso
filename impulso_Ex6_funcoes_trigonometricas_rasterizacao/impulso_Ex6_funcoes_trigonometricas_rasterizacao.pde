@@ -1,4 +1,4 @@
-//funções trigonométricas na rasterização
+//funções trigonométricas e noise na rasterização
 float t;
 
 PImage img;

@@ -1,3 +1,5 @@
+//funções trigonométricas no grid e nas cores
+
 float t;
 
 void setup () {
